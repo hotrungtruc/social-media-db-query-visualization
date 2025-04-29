@@ -12,4 +12,4 @@ The goal is to simulate realistic social media interactions such as post likes, 
 - 📊 **Visualize insights** using `matplotlib` and `seaborn`
 - 🧠 Pre-built **SQL queries** for social media analytics
   
-##⭐ Star this repo if you find it useful!
+## ⭐ Star this repo if you find it useful!
