@@ -10,6 +10,12 @@ The goal is to simulate realistic social media interactions such as post likes, 
 - 👤 **Generate realistic user profiles** (name, age, bio, interests, gender, profile picture)
 - 📝 **Simulate posts, hashtags, comments, media**, logins, and reactions
 - 📊 **Visualize insights** using `matplotlib` and `seaborn`
-- 🧠 Pre-built **SQL queries** for social media analytics
-  
+- 🔃 **Advanced Queries** Prewritten SQL snippets using CTEs, window functions, and ROLLUP for rapid analytics.
+
+## 📦 Installation
+git clone https://github.com/your-username/social-media-simulator.git
+cd social-media-simulator
+pip install -r requirements.txt
+
+
 ## ⭐ Star this repo if you find it useful!
