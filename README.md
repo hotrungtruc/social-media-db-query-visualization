@@ -13,12 +13,14 @@ The goal is to simulate realistic social media interactions such as post likes, 
 - 🔃 **Advanced Queries** Prewritten SQL snippets using CTEs, window functions, and ROLLUP for rapid analytics.
 
 ## 📦 Installation
-1. Clone the repository:
+1. **Clone the repository**  
     ```sh
     git clone https://github.com/hotrungtruc/social-media-db-query-visualization.git
-    
     cd social-media-db-query-visualization
     ```
-2. Install necessary libraries
-- pip install -r requirements.txt
+
+2. **Install necessary libraries**  
+    ```sh
+    pip install -r requirements.txt
+    ```
 ## ⭐ Star this repo if you find it useful!
