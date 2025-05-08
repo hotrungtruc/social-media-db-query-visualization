@@ -1,4 +1,4 @@
-# Social Media Data Simulator
+# Social-media-db-query-visualization
 
 ## 👀 Overview
 This project simulates a social media platform's database, designed to handle user data, posts, comments, reactions, hashtags, and media. The structure is simple yet versatile, making it easy to integrate with frontend interfaces for testing, development, or data analysis purposes.
@@ -15,8 +15,8 @@ The goal is to simulate realistic social media interactions such as post likes, 
 ## 📦 Installation
 Clone the repository:
     ```sh
-    git clone https://github.com/your-username/social-media-simulator.git
-    cd social-media-simulator
+    git clone https://github.com/hotrungtruc/social-media-db-query-visualization.git
+    cd social-media-db-query-visualization
     ```
 
 ## ⭐ Star this repo if you find it useful!
