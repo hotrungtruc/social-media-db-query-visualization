@@ -13,9 +13,10 @@ The goal is to simulate realistic social media interactions such as post likes, 
 - 🔃 **Advanced Queries** Prewritten SQL snippets using CTEs, window functions, and ROLLUP for rapid analytics.
 
 ## 📦 Installation
-Clone the repository:
+1.Clone the repository:
     ```sh
     git clone https://github.com/hotrungtruc/social-media-db-query-visualization.git
+    
     cd social-media-db-query-visualization
     ```
 
