@@ -16,7 +16,9 @@ The goal is to simulate realistic social media interactions such as post likes, 
 Clone the repository:
     ```sh
     git clone https://github.com/your-username/social-media-simulator.git
+    
     cd social-media-simulator
+    
     pip install -r requirements.txt
     ```
 
