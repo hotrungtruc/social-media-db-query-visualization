@@ -20,7 +20,5 @@ The goal is to simulate realistic social media interactions such as post likes, 
     cd social-media-db-query-visualization
     ```
 2. Install necessary libraries
-   '''sh
-   pip install -r requirements.txt
-   '''
+- pip install -r requirements.txt
 ## ⭐ Star this repo if you find it useful!
