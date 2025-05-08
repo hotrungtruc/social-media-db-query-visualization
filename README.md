@@ -13,10 +13,10 @@ The goal is to simulate realistic social media interactions such as post likes, 
 - 🔃 **Advanced Queries** Prewritten SQL snippets using CTEs, window functions, and ROLLUP for rapid analytics.
 
 ## 📦 Installation
-'''sh
-git clone https://github.com/your-username/social-media-simulator.git
-cd social-media-simulator
-pip install -r requirements.txt
-'''
+  '''sh
+  git clone https://github.com/your-username/social-media-simulator.git
+  cd social-media-simulator
+  pip install -r requirements.txt
+  '''
 
 ## ⭐ Star this repo if you find it useful!
